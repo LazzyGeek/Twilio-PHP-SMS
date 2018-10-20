@@ -119,12 +119,6 @@ p {
   padding-top: 20px;
 }
 </style>
-<script type="text/javascript">
-function displayPopup()
-{
- alert("SMS SENT!");
-}
-</script>
 <title>Twilio SMS</title>
 
 
