@@ -1,5 +1,5 @@
 
-<center><h2> Twilio SMS Sender PHP By :- Sadab Khan</h2> </center>
+<center><h2> Twilio SMS Sender PHP By : Sadab Khan</h2> </center>
 <style>
 
 /* Google Fonts */
